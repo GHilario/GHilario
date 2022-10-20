@@ -1,6 +1,13 @@
 <h1>Hi 👋, I'm Gabriel</h1>
 
-<h2> Full Stack Web Developer </h2>
+<p>
+
+     🖥️ Full Stack Web Developer
+     
+     🏫 Computer Science Bachelor - Federal University of Goiás
+
+     🏢 Lifeapps
+</p>
 
 <div align="center">
   <a href="https://github.com/GHilario">
