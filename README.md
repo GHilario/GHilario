@@ -6,7 +6,7 @@
      
      🏫 Computer Science Bachelor - Federal University of Goiás
 
-     🏢 Lifeapps
+     🏢 Gringo
 </p>
 
 <div align="center">
